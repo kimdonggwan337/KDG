@@ -1,0 +1,23 @@
+{
+  "name": "kdg",
+  "version": "1.0.0",
+  "description": "hi, hellow!\r hellow world!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimdonggwan337/KDG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimdonggwan337/KDG/issues"
+  },
+  "homepage": "https://github.com/kimdonggwan337/KDG#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
